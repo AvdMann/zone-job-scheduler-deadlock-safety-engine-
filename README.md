@@ -11,10 +11,12 @@
 - peterson_demo.py
 - bankers_algorithm.py
 - memory_translation.py
+  
+# Part 2 Deployment Blueprint
 
-### Part 2
+See the deployment blueprint here:
 
-- docs/architecture_blueprint.md
+docs/architecture_blueprint.md
 
 ---
 
